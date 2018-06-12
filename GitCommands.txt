@@ -1,0 +1,52 @@
+git tutorial
+
+----------------------------------
+
+Git - version control system for tracking changes in computer files
+
+-- git init //initialize local git repositry
+
+-- git add <file> //add file to index(staging area)
+
+or use git add *.html
+
+or git add . //add all files
+
+
+
+-- git status // check status of working tree
+
+-- git commit // commit changes in index
+
+-- git push //push local to remote repository 
+
+-- git pull // pull latest from remote repository
+
+-- git clone // clone repository to local machine
+
+-- git config --global user.name 'harminder'
+
+-- git commit -m 'comment here' //commit into repo
+
+
+
+-- git config --global user.email 'harminder@ca.com'
+
+-- git rm --cached <file> - remove file from staging area
+
+-- .gitignore //contains list of files to ignore 
+
+-- git branch mybranch //creating a new branch 
+
+-- git checkout mybranch // shifting from master branch into mybranch 
+
+-- git merge mybramch // u should be in master branch
+
+-- git remote   //working with remote repository
+
+-- git remote add origin https://github.com/harminder0209/githubCommands.git
+
+-- git push -u origin master //pushed to github
+
+
+
