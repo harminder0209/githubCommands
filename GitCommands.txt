@@ -49,4 +49,12 @@ or git add . //add all files
 -- git push -u origin master //pushed to github
 
 
+-- make changes in local and push to git
 
+git push 
+
+--- clone a remote repo
+
+git clone https://github.com/harminder0209/githubCommands.git
+
+-- git pull // to pull all changes 
